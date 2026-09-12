@@ -10,7 +10,6 @@ export default function Navbar() {
         <a href="#home" className="hover:text-amber-400 transition">Home</a>
         <a href="#about" className="hover:text-amber-400 transition">About</a>
         <a href="#skills" className="hover:text-amber-400 transition">Skills</a>
-        <a href="#education" className="hover:text-amber-400 transition">Education</a>
         <a href="#projects" className="hover:text-amber-400 transition">Projects</a>
         <a href="#certificates" className="hover:text-amber-400 transition">Certificates</a>
       </div>

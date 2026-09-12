@@ -26,7 +26,7 @@ export default function Projects() {
       desc: "Portfolio modern dengan React.",
       tech: ["React", "Tailwind", "Vite"],
       image: webBaru,
-      code: "https://github.com/username/react-portfolio",
+      code: "https://rajwamaajid29-oss.github.io/React-Gw/",
     },
     {
       title: "Art Portfolio & Booking",
