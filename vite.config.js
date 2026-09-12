@@ -3,9 +3,9 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
+  base: '/React-Gw/',
   plugins: [
     react(),
     tailwindcss(),
   ],
-  base: '/React-Gw',
 })
