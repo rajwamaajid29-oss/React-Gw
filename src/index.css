@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* biar gak ketutup navbar */
+section {
+  scroll-margin-top: 80px;
+}
+* {
+  cursor: none;
+}
