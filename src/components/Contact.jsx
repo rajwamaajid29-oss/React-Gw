@@ -85,7 +85,7 @@ export default function Contact() {
           >
             <iframe
               src="https://maps.google.com/maps?q=depok%20indonesia&t=&z=13&ie=UTF8&iwloc=&output=embed"
-              className="w-full h-[300px] grayscale"
+              className="w-full h-[300px]"
               loading="lazy"
             ></iframe>
 
